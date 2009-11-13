@@ -1,0 +1,11 @@
+Mensagens de validação do Zend Validate traduzidas para PT-BR
+
+O intuito deste projeto é disponibilizar a todos um arquivo já contendo todas as mensagens dos componentes de validação do Zend Framework. Alem de disponibilizar os arquivos para uso, tambem estou disponibilizando os arquivos fontes para edição e colaboração.
+Para alterar os arquivos é necessario utilizar um software de edição de arquivos no formato Gnu Gettext. Recomendo o uso do software livre PO Edit.
+
+A lista de todas as mensagens de todos os componentes de validação pode ser encontrada em http://framework.zend.com/manual/en/zend.validate.messages.html
+
+
+-------
+
+Autor: Diego Henrique Oliveira <diegoholiveira@yahoo.com.br>
