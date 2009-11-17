@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-05-20 23:19-0300\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Diego Henrique <diegoholiveira@yahoo.com.br>\n"
+"Last-Translator: Henrique Moody <henriquemoody@gmail.com>\n"
 "Language-Team: Diego Henrique Oliveira <diegoholiveira@yahoo.com.br>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -73,7 +73,7 @@ msgstr "'%value%' não é uma data valida."
 
 #: /home/diego/Desktop/Translate Project/translate.php:46
 msgid "'%value%' is not of the format YYYY-MM-DD"
-msgstr "'%value%' is not of the format YYYY-MM-DD"
+msgstr "'%value%' não está no formato AAAA-MM-DD"
 
 #: /home/diego/Desktop/Translate Project/translate.php:50
 msgid "'%value%' contains not only digit characters"
@@ -105,15 +105,15 @@ msgstr "'%localPart%' is not a valid local part for email address '%value%'"
 
 #: /home/diego/Desktop/Translate Project/translate.php:66
 msgid "'%value%' exceeds the allowed length"
-msgstr "'%value%' exceeds the allowed length"
+msgstr "'%value%' excede o tamanho permitido"
 
 #: /home/diego/Desktop/Translate Project/translate.php:70
 msgid "Too much files, maximum '%max%' are allowed but '%count%' are given"
-msgstr "Too much files, maximum '%max%' are allowed but '%count%' are given"
+msgstr "Excesso de arquivos, máximo de '%max%' permitidos, mas '%count%' são dados"
 
 #: /home/diego/Desktop/Translate Project/translate.php:72
 msgid "Too less files, minimum '%min%' are expected but '%count%' are given"
-msgstr "Too less files, minimum '%min%' are expected but '%count%' are given"
+msgstr "Falta de arquivos, mínimo de '%min%' é especificado, mas '%count%' são dados"
 
 #: /home/diego/Desktop/Translate Project/translate.php:76
 msgid "The file '%value%' does not match the given crc32 hashes"
@@ -130,16 +130,16 @@ msgstr "There was no crc32 hash detected for the given file"
 #: Project/translate.php:183
 #: Project/translate.php:211
 msgid "The file '%value%' could not be found"
-msgstr "The file '%value%' could not be found"
+msgstr "O arquivo '%value%' não pode ser encontrado"
 
 #: /home/diego/Desktop/Translate Project/translate.php:83
 #: Project/translate.php:101
 msgid "The file '%value%' has a false extension"
-msgstr "The file '%value%' has a false extension"
+msgstr "O arquivo '%value%' tem uma extensão falsa"
 
 #: /home/diego/Desktop/Translate Project/translate.php:85
 msgid "The file '%value%' was not found"
-msgstr "The file '%value%' was not found"
+msgstr "O arquivo '%value%' não foi encontrado"
 
 #: /home/diego/Desktop/Translate Project/translate.php:89
 #: Project/translate.php:159
@@ -151,18 +151,18 @@ msgstr "The file '%value%' has a false mimetype of '%type%'"
 #: Project/translate.php:145
 #: Project/translate.php:161
 msgid "The mimetype of file '%value%' could not been detected"
-msgstr "The mimetype of file '%value%' could not been detected"
+msgstr "O mimetype do arquivo '%value%' não pode ser detectado"
 
 #: /home/diego/Desktop/Translate Project/translate.php:93
 #: Project/translate.php:139
 #: Project/translate.php:147
 #: Project/translate.php:163
 msgid "The file '%value%' can not be read"
-msgstr "The file '%value%' can not be read"
+msgstr "O arquivo '%value%' não pode ser lido"
 
 #: /home/diego/Desktop/Translate Project/translate.php:97
 msgid "The file '%value%' does not exist"
-msgstr "The file '%value%' does not exist"
+msgstr "O arquivo '%value%' não existe"
 
 #: /home/diego/Desktop/Translate Project/translate.php:105
 msgid "All files in sum should have a maximum size of '%max%' but '%size%' were detected"
@@ -174,7 +174,7 @@ msgstr "All files in sum should have a minimum size of '%min%' but '%size%' were
 
 #: /home/diego/Desktop/Translate Project/translate.php:109
 msgid "One or more files can not be read"
-msgstr "One or more files can not be read"
+msgstr "Um ou mais arquivos não puderam ser lidos"
 
 #: /home/diego/Desktop/Translate Project/translate.php:113
 msgid "The file '%value%' does not match the given hashes"
@@ -202,7 +202,7 @@ msgstr "Minimum expected height for image '%value%' should be '%minheight%' but 
 
 #: /home/diego/Desktop/Translate Project/translate.php:129
 msgid "The size of image '%value%' could not be detected"
-msgstr "The size of image '%value%' could not be detected"
+msgstr "O tamanho da imagem '%value%' não pode ser detectada"
 
 #: /home/diego/Desktop/Translate Project/translate.php:131
 msgid "The image '%value%' can not be read"
@@ -290,15 +290,15 @@ msgstr "Too less words, minimum '%min%' are expected but '%count%' were counted"
 
 #: /home/diego/Desktop/Translate Project/translate.php:215
 msgid "'%value%' does not appear to be a float"
-msgstr "'%value%' does not appear to be a float"
+msgstr "'%value%' não aparenta ser um float"
 
 #: /home/diego/Desktop/Translate Project/translate.php:219
 msgid "'%value%' is not greater than '%min%'"
-msgstr "'%value%' is not greater than '%min%'"
+msgstr "'%value%' não é maior que '%min%'"
 
 #: /home/diego/Desktop/Translate Project/translate.php:223
 msgid "'%value%' has not only hexadecimal digit characters"
-msgstr "'%value%' has not only hexadecimal digit characters"
+msgstr "'%value%' não tem somente caracteres hexadecimais"
 
 #: /home/diego/Desktop/Translate Project/translate.php:227
 msgid "'%value%' appears to be an IP address, but IP addresses are not allowed"
@@ -322,15 +322,15 @@ msgstr "'%value%' appears to be a DNS hostname but cannot extract TLD part"
 
 #: /home/diego/Desktop/Translate Project/translate.php:237
 msgid "'%value%' does not match the expected structure for a DNS hostname"
-msgstr "'%value%' does not match the expected structure for a DNS hostname"
+msgstr "'%value%' não coincide com a estrutura esperada para um host de DNS"
 
 #: /home/diego/Desktop/Translate Project/translate.php:239
 msgid "'%value%' does not appear to be a valid local network name"
-msgstr "'%value%' does not appear to be a valid local network name"
+msgstr "'%value%' não aparenta ser um endereço local válido"
 
 #: /home/diego/Desktop/Translate Project/translate.php:241
 msgid "'%value%' appears to be a local network name but local network names are not allowed"
-msgstr "'%value%' appears to be a local network name but local network names are not allowed"
+msgstr "'%value%' aparenta ser um endereço local, mas endereços locais não são permitidos"
 
 #: /home/diego/Desktop/Translate Project/translate.php:245
 msgid "'%value%' does not have IBAN"
@@ -338,7 +338,7 @@ msgstr "'%value%' does not have IBAN"
 
 #: /home/diego/Desktop/Translate Project/translate.php:247
 msgid "'%value%' has a false format"
-msgstr "'%value%' has a false format"
+msgstr "'%value%' tem um formato falso"
 
 #: /home/diego/Desktop/Translate Project/translate.php:249
 msgid "'%value%' has failed the IBAN check"
@@ -346,7 +346,7 @@ msgstr "'%value%' has failed the IBAN check"
 
 #: /home/diego/Desktop/Translate Project/translate.php:253
 msgid "Tokens do not match"
-msgstr "Tokens do not match"
+msgstr "Símbolos não casam"
 
 #: /home/diego/Desktop/Translate Project/translate.php:255
 msgid "No token was provided to match against"
