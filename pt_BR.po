@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-05-20 23:19-0300\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Henrique Moody <henriquemoody@gmail.com>\n"
+"Last-Translator: Marcos Parmeggiani <marcos.parmeggiani@gmail.com>\n"
 "Language-Team: Diego Henrique Oliveira <diegoholiveira@yahoo.com.br>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: /home/diego/Desktop/Translate Project/translate.php:4
 msgid "'%value%' is an empty string"
-msgstr "'%value%' é uma string vazia."
+msgstr "'%value%' é uma string vazia"
 
 #: /home/diego/Desktop/Translate Project/translate.php:8
 msgid "'%value%' has not only alphabetic and digit characters"
@@ -158,7 +158,7 @@ msgstr "O mimetype do arquivo '%value%' não pode ser detectado"
 #: Project/translate.php:147
 #: Project/translate.php:163
 msgid "The file '%value%' can not be read"
-msgstr "O arquivo '%value%' não pode ser lido"
+msgstr "O arquivo '%value%' não pôde ser lido"
 
 #: /home/diego/Desktop/Translate Project/translate.php:97
 msgid "The file '%value%' does not exist"
@@ -202,11 +202,11 @@ msgstr "Minimum expected height for image '%value%' should be '%minheight%' but 
 
 #: /home/diego/Desktop/Translate Project/translate.php:129
 msgid "The size of image '%value%' could not be detected"
-msgstr "O tamanho da imagem '%value%' não pode ser detectada"
+msgstr "O tamanho da imagem '%value%' não pôde ser detectado"
 
 #: /home/diego/Desktop/Translate Project/translate.php:131
 msgid "The image '%value%' can not be read"
-msgstr "The image '%value%' can not be read"
+msgstr "A imagem '%value%' não pôde ser lida"
 
 #: /home/diego/Desktop/Translate Project/translate.php:135
 msgid "The file '%value%' is not compressed, '%type%' detected"
@@ -226,7 +226,7 @@ msgstr "There was no md5 hash detected for the given file"
 
 #: /home/diego/Desktop/Translate Project/translate.php:167
 msgid "The file '%value%' does exist"
-msgstr "The file '%value%' does exist"
+msgstr "O arquivo '%value%' não existe"
 
 #: /home/diego/Desktop/Translate Project/translate.php:171
 msgid "The file '%value%' does not match the given sha1 hashes"
@@ -238,47 +238,47 @@ msgstr "There was no sha1 hash detected for the given file"
 
 #: /home/diego/Desktop/Translate Project/translate.php:179
 msgid "Maximum allowed size for file '%value%' is '%max%' but '%size%' detected"
-msgstr "Maximum allowed size for file '%value%' is '%max%' but '%size%' detected"
+msgstr "O tamanho máximo permitido para o arquivo '%value%' é '%max%', mas foi detectado '%size%'"
 
 #: /home/diego/Desktop/Translate Project/translate.php:181
 msgid "Minimum expected size for file '%value%' is '%min%' but '%size%' detected"
-msgstr "Minimum expected size for file '%value%' is '%min%' but '%size%' detected"
+msgstr "O tamanho mínimo esperado para o aquivo '%value%' é '%min%', mas foi detectado '%size%'"
 
 #: /home/diego/Desktop/Translate Project/translate.php:187
 msgid "The file '%value%' exceeds the defined ini size"
-msgstr "The file '%value%' exceeds the defined ini size"
+msgstr "O arquivo '%value%' excede o ini size definido"
 
 #: /home/diego/Desktop/Translate Project/translate.php:189
 msgid "The file '%value%' exceeds the defined form size"
-msgstr "The file '%value%' exceeds the defined form size"
+msgstr "O arquivo '%value%' excede o form size definido"
 
 #: /home/diego/Desktop/Translate Project/translate.php:191
 msgid "The file '%value%' was only partially uploaded"
-msgstr "The file '%value%' was only partially uploaded"
+msgstr "O arquivo '%value%' foi apenas parcialmente enviado"
 
 #: /home/diego/Desktop/Translate Project/translate.php:193
 msgid "The file '%value%' was not uploaded"
-msgstr "The file '%value%' was not uploaded"
+msgstr "O arquivo '%value%' não foi enviado"
 
 #: /home/diego/Desktop/Translate Project/translate.php:195
 msgid "No temporary directory was found for the file '%value%'"
-msgstr "No temporary directory was found for the file '%value%'"
+msgstr "Nenhum diretório temporário foi encontrado para o arquivo '%value%'"
 
 #: /home/diego/Desktop/Translate Project/translate.php:197
 msgid "The file '%value%' can't be written"
-msgstr "The file '%value%' can't be written"
+msgstr "O arquivo '%value%' não pode ser escrito"
 
 #: /home/diego/Desktop/Translate Project/translate.php:199
 msgid "The extension returned an error while uploading the file '%value%'"
-msgstr "The extension returned an error while uploading the file '%value%'"
+msgstr "A extensão retornou um erro ao enviar o arquivo '%value%'"
 
 #: /home/diego/Desktop/Translate Project/translate.php:201
 msgid "The file '%value%' was illegal uploaded, possible attack"
-msgstr "The file '%value%' was illegal uploaded, possible attack"
+msgstr "O arquivo '%value%' foi enviado de forma ilegal, possível ataque"
 
 #: /home/diego/Desktop/Translate Project/translate.php:203
 msgid "Unknown error while uploading the file '%value%'"
-msgstr "Unknown error while uploading the file '%value%'"
+msgstr "Erro desconhecido ao enviar o arquivo '%value%'"
 
 #: /home/diego/Desktop/Translate Project/translate.php:207
 msgid "Too much words, maximum '%max%' are allowed but '%count%' were counted"
@@ -302,7 +302,7 @@ msgstr "'%value%' não tem somente caracteres hexadecimais"
 
 #: /home/diego/Desktop/Translate Project/translate.php:227
 msgid "'%value%' appears to be an IP address, but IP addresses are not allowed"
-msgstr "'%value%' appears to be an IP address, but IP addresses are not allowed"
+msgstr "'%value%' parece ser um endereço IP, mas endereços IP não são permitidos"
 
 #: /home/diego/Desktop/Translate Project/translate.php:229
 msgid "'%value%' appears to be a DNS hostname but cannot match TLD against known list"
@@ -310,7 +310,7 @@ msgstr "'%value%' appears to be a DNS hostname but cannot match TLD against know
 
 #: /home/diego/Desktop/Translate Project/translate.php:231
 msgid "'%value%' appears to be a DNS hostname but contains a dash (-) in an invalid position"
-msgstr "'%value%' appears to be a DNS hostname but contains a dash (-) in an invalid position"
+msgstr "'%value%' parece ser um host de DNS, mas possui um hífen (-) em uma posição inválida"
 
 #: /home/diego/Desktop/Translate Project/translate.php:233
 msgid "'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'"
@@ -318,7 +318,7 @@ msgstr "'%value%' appears to be a DNS hostname but cannot match against hostname
 
 #: /home/diego/Desktop/Translate Project/translate.php:235
 msgid "'%value%' appears to be a DNS hostname but cannot extract TLD part"
-msgstr "'%value%' appears to be a DNS hostname but cannot extract TLD part"
+msgstr "'%value%' parece ser um Host de DNS, mas não foi possível extrair o TLD"
 
 #: /home/diego/Desktop/Translate Project/translate.php:237
 msgid "'%value%' does not match the expected structure for a DNS hostname"
@@ -334,7 +334,7 @@ msgstr "'%value%' aparenta ser um endereço local, mas endereços locais não s�
 
 #: /home/diego/Desktop/Translate Project/translate.php:245
 msgid "'%value%' does not have IBAN"
-msgstr "'%value%' does not have IBAN"
+msgstr "'%value%' não pussui IBAN"
 
 #: /home/diego/Desktop/Translate Project/translate.php:247
 msgid "'%value%' has a false format"
@@ -342,7 +342,7 @@ msgstr "'%value%' tem um formato falso"
 
 #: /home/diego/Desktop/Translate Project/translate.php:249
 msgid "'%value%' has failed the IBAN check"
-msgstr "'%value%' has failed the IBAN check"
+msgstr "'%value%' não passou pela verificação IBAN"
 
 #: /home/diego/Desktop/Translate Project/translate.php:253
 msgid "Tokens do not match"
@@ -350,23 +350,23 @@ msgstr "Símbolos não casam"
 
 #: /home/diego/Desktop/Translate Project/translate.php:255
 msgid "No token was provided to match against"
-msgstr "No token was provided to match against"
+msgstr "Nenhum símbolo foi fornecido para comparação"
 
 #: /home/diego/Desktop/Translate Project/translate.php:259
 msgid "'%value%' was not found in the haystack"
-msgstr "'%value%' was not found in the haystack"
+msgstr "'%value%' não foi encontrado na haystack"
 
 #: /home/diego/Desktop/Translate Project/translate.php:263
 msgid "'%value%' does not appear to be an integer"
-msgstr "'%value%' does not appear to be an integer"
+msgstr "'%value%' não parece ser um inteiro"
 
 #: /home/diego/Desktop/Translate Project/translate.php:267
 msgid "'%value%' does not appear to be a valid IP address"
-msgstr "'%value%' does not appear to be a valid IP address"
+msgstr "'%value%' não parece ser um endereço IP válido"
 
 #: /home/diego/Desktop/Translate Project/translate.php:271
 msgid "'%value%' is not less than '%max%'"
-msgstr "'%value%' is not less than '%max%'"
+msgstr "'%value%' não é menor que '%max%'"
 
 #: /home/diego/Desktop/Translate Project/translate.php:275
 msgid "Value is required and can't be empty"
